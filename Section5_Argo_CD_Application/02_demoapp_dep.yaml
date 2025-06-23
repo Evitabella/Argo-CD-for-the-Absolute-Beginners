@@ -16,5 +16,5 @@ spec:
         app: demoapp
     spec:
       containers:
-      - image: docker.i/thinknyx/demoapp:v1
+      - image: docker.io/thinknyx/demoapp:v1
         name: demoapp
